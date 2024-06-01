@@ -1,4 +1,4 @@
-#Estágios da vida 5.6
+#5.6 Estágios da vida
 
 ##cadeia if-elif-else que determine o estágio da vida de uma pessoa
 
